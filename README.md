@@ -1,2 +1,8 @@
 # Motion-Detection
-This is the motion detection algorithm based on the data collect from the accelerometer.
+This is a motion detection algorithm based on the data collect from the accelerometer.
+After the process, it can distinguish 4 pattern of users, they are:
+Standing still, walking, running, falling down.
+
+2 Extra pattern: standing up and sitting down can also support by the algorithm based 
+on the data from Gravity sensor.
+
